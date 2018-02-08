@@ -26,7 +26,7 @@ func main() {
 		salary: 14500,
 		currency: "$",
 	}
-
+	
 	// student := Student {
 	// 	name: "Manjit Singh",
 	// 	salary: 1450,
